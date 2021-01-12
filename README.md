@@ -11,10 +11,7 @@ My name is pooja gundu. I am from Hyderabad, India. I did my bachelors with the 
 - GitHub Markdown
 
 ### LinkedIn Profile 
-[LinkedIn](www.linkedin.com/in/pooja-gundu-b71000107)
-- <💻> <a attid="8742" href="https://www.linkedin.com/in/pooja-gundu-b71000107//" width="18" height="18"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="18" height="18" class="alignleft size-full wp-image-8742"></a>
-
-
+- <a attid="8742" href="https://www.linkedin.com/in/pooja-gundu-b71000107//" width="18" height="18"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="18" height="18" class="alignleft size-full wp-image-8742"></a>
 
 **
 GUNDUPOOJA/gundupooja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

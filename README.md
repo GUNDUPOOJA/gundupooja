@@ -2,8 +2,8 @@
 
 ### About me : 
 My name is pooja gundu. I am from Hyderabad, India. I did my bachelors with the specialization in Mechanical Engineering from JNTUH College of Engineering.Currently am pursuing Masters in Applied Computer science from Northwest Missouri State University.I worked as an Associate in Accenture for 15 months.My Hobbies are Drawing, making crafts,Dancing, Listening Music. My plans after Ms is to get a good job and build a successful career. Data Analytics,Big Data, Devops are the areas that I am interested in.
+Also did certifications in python, Basics of R programming from Udemy, and data Analytics from Google Analytics Academy.
 
-### Skills
 ## Collaboration
 - GitHub: Profile / Repos 
 

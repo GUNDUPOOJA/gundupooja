@@ -5,6 +5,7 @@ My name is pooja gundu. I am from Hyderabad, India. I did my bachelors with the 
 Also did certifications in python, Basics of R programming from Udemy, and data Analytics from Google Analytics Academy.
 
 ## Collaboration
+- Git: Create / Clone / Push
 - GitHub: Profile / Repos 
 
 ## Languages

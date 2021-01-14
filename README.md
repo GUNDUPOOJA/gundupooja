@@ -10,10 +10,14 @@ Also did certifications in python, Basics of R programming from Udemy, and data 
 
 ## Languages
 - GitHub Markdown
+-  JavaScript
+
+## Publishing
+- Heroku
 
 ## Technical Skills
 - Programming languages - C, JAVA, BASICS OF PYTHON PROGRAMMING.
-- Basics of HTML, CSS, JS.
+- Basics of HTML, CSS, JavaScript
 
 ## Soft Skills
 - Team work 

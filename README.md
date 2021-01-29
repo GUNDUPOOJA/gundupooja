@@ -5,15 +5,24 @@ My name is pooja gundu. I am from Hyderabad, India. I did my bachelors with the 
 Also did certifications in python, Basics of R programming from Udemy, and data Analytics from Google Analytics Academy.
 
 ## Collaboration
-- Git: Create / Clone / Push
-- GitHub: Profile / Repos 
+- Git: Create / Clone / Init/ commit / Push
+- GitHub: Profile / Repos / Settings
 
 ## Languages
 - GitHub Markdown
+- HTML: Semantic tags / geolocation / speech synthesis
 -  JavaScript
 
 ## Publishing
+- GitHub pages
 - Heroku
+
+## IDEs/Editors
+- VS Code
+
+## JavaScript
+- Basics: variables / literals / scope / if-else / functions
+- modules / let / const / arrow functions / promises / async / await
 
 ## Technical Skills
 - Programming languages - C, JAVA, BASICS OF PYTHON PROGRAMMING.

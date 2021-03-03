@@ -44,3 +44,5 @@ Also did certifications in python, Basics of R programming from Udemy, and data 
 ### LinkedIn Profile 
 - You can reach me at <a attid="8742" href="https://www.linkedin.com/in/pooja-gundu-b71000107//" width="18" height="18"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="18" height="18" class="alignleft size-full wp-image-8742"></a>
 
+## GitHub Stats
+[![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=GUNDUPOOJA)](https://github.com/anuraghazra/github-readme-stats)

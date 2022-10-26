@@ -1,4 +1,4 @@
-### Hello 👋, I'm Pooja [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pooja-gundu-0ba459224/)
+### Hello 👋, I'm Pooja [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/pooja-g-0ba459224/])
 &nbsp;
 
 ## Currently Working as - Data Engineer at HCSC+

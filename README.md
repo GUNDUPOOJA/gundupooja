@@ -1,48 +1,18 @@
-### My GitHub Profile
+### Hello 👋, I'm Pooja [![Linkedin](https://i.stack.imgur.com/gVE0j.png) [LinkedIn](https://www.linkedin.com/in/pooja-pooja-0ba459224/)
+&nbsp;
 
-### About me : 
-My name is pooja gundu. I am from Hyderabad, India. I did my bachelors with the specialization in Mechanical Engineering from JNTUH College of Engineering.Currently am pursuing Masters in Applied Computer science from Northwest Missouri State University.I worked as an Associate in Accenture for 15 months.My Hobbies are Drawing, making crafts,Dancing, Listening Music. My plans after Ms is to get a good job and build a successful career. Data Analytics,Big Data, Devops are the areas that I am interested in.
-Also did certifications in python, Basics of R programming from Udemy, and data Analytics from Google Analytics Academy.
+## Currently Working as - Data Engineer at HCSC+
+I am working as a Data Engineer at HCSC, Within the HCSC, large IT organization there are applications that supports various authorizations in different areas like memberships, claims, finance, wellness area etc, am working on TPO-MRF project is all about migrating data from on-prem to Azure.
+- After the source team sends all the data, it goes from edgenode to ADLS(raw and curated layers) using a framework and it does all the audit checks on file like Duplicate File check, Empty file check, Header file check before feeding all the data into ADL (Azure data lake).The data from the curated layer, then finally used by the consumption team. 
+- My responsibility is to develop the code and make sure that the code at the script level, logic level and automation level is running smoothly and make sure that the above things can use for refactoring purpose using programming languages like Python, Control-M, Spark, Scala, SQL Hadoop technologies.
+- Responsible for working on scheduling tools like Control-M and automating the tasks. 
+- Works with various file formats:  TEXT & CSV; Parquet & other compressed formats.
+- Responsible for developing the code using python scripting at the logic level, scripting level to make sure that data is flowing smoothly through the ingestion data pipeline and the data quality is high without any errors or kind of storage issues, making sure that these kinds of issue are completely out of the data ingestion pipeline.
 
-## Collaboration
-- Git: Create / Clone / Init/ commit / Push
-- GitHub: Profile / Repos / Settings
+## Education
+- Masters in Applied Computer Science at Northwest Missouri State University (May 2021) - 3.71 GPA
 
-## Languages
-- GitHub Markdown
-- HTML: Semantic tags / geolocation / speech synthesis
--  JavaScript
+## Certifications
+- python, Basics of R programming from Udemy.
+- Data Analytics from Google Analytics Academy.
 
-## Publishing
-- GitHub pages
-- Heroku
-
-## IDEs/Editors
-- VS Code
-
-## JavaScript
-- Basics: variables / literals / scope / if-else / functions
-- modules / let / const / arrow functions / promises / async / await
-
-## Technical Skills
-- Programming languages - C, JAVA, BASICS OF PYTHON PROGRAMMING.
-- Basics of HTML, CSS, JavaScript
-
-## Soft Skills
-- Team work 
-- Good Communication skills
-- Time Management
-
-## Educational Qualifications
-- I did my bachelors in Mechanical Engineering from JNTUH College of Engineering (2017) with an aggregate of 79%. Currently pursuing Masters in Applied Computer Science (ACS) at Northwest Missouri State University.
-- Intermediate from Sri Chaitanya junior college, SR Nagar, Hyderabad with 97.7%
-- Secondary education from Kavitha Vidya Nikethan High School, Hyderabad with 90%.
-
-## Work History
-- Worked as an Associate in ACCENTURE,Nanakramguda, Hyderabad for 15 months.
-
-### LinkedIn Profile 
-- You can reach me at <a attid="8742" href="https://www.linkedin.com/in/pooja-gundu-b71000107//" width="18" height="18"><img src="https://www.linkedin-makeover.com/wp-content/uploads/2014/08/linkedin.png" alt="linkedin" width="18" height="18" class="alignleft size-full wp-image-8742"></a>
-
-## GitHub Stats
-[![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=GUNDUPOOJA)](https://github.com/anuraghazra/github-readme-stats)
